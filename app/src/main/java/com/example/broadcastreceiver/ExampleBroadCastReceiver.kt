@@ -13,7 +13,5 @@ class ExampleBroadCastReceiver : BroadcastReceiver() {
         } else {
             Toast.makeText(context, "Air Plane mode is OFF", Toast.LENGTH_LONG).show()
         }
-        TODO("Not yet implemented")
-        Toast.makeText(context, "Air plane mode", Toast.LENGTH_LONG).show()
     }
 }
